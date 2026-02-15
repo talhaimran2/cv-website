@@ -1,7 +1,9 @@
 # CV Website
 
 ## Project Information
-This is a personal CV website created using HTML and CSS.
+This is my personal CV website created as part of my Web Development assignment. 
+The website includes sections like About Me, Education, Skills, Projects, and Contact Information. 
+It is fully responsive and built using Flexbox for layout.
 
 ## Technologies Used
 - HTML5
@@ -9,8 +11,8 @@ This is a personal CV website created using HTML and CSS.
 - Flexbox
 
 ## Live Website
-https://your-vercel-link.vercel.app
+https://cv-website-zpc4.vercel.app
 
 ## Student Information
-Name: Your Name  
-Roll No: Your Roll Number
+Name: Muhammad Talha Imran  
+Roll No: 23L-2627
